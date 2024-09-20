@@ -1,1 +1,1 @@
-![BankAccountİSTERLER.png](..%2Fresources%2Ftemplates%2FBankAccount%DDSTERLER.png)
+![BankAccountİSTERLER.png](BankAccountIsterler.png)
