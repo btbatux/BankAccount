@@ -1,1 +1,1 @@
-![BankAccountIsterler.png](resources/templates/BankAccountIsterler.png)
+![BankAccountIsterler.png](src/main/resources/templates/BankAccountIsterler.png)
