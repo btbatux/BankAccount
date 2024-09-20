@@ -70,11 +70,14 @@ The project is structured into several packages, each responsible for different 
    git clone https://github.com/btbatux/BankAccount.git
    cd BankAccount
 
+
 2. **Docker Compose**:
+   (Build for) docker build . -t account:1.0
+   
 For docker compose usage, docker images already push to docker.io
 You just need to run -`Docker-compose up` command
 
-3. **Maven**
+4. **Maven**
 For maven usage, you need to change `proxy` value in the `account-fe/package.json` file by `"http://localhost:8080"` due to the default value has been settled for docker image network proxy.
 
 $PORT: 8080
